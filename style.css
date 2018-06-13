@@ -26,13 +26,13 @@ background-image: url("https://d2ezq7t0wj6z8f.cloudfront.net/i26oW46jmTk6NIhmKfL
 
 				margin: 1%;}
 
-			.column1, .column2, .column3 {
+			.column1  {
 
-				width: 31.3%;
+				width: 98%;
 
 				float: left;
 
-				margin: 1%;}
+				margin-left: 1%;}
 
 			.column3 {
 
@@ -52,7 +52,7 @@ background-image: url("https://d2ezq7t0wj6z8f.cloudfront.net/i26oW46jmTk6NIhmKfL
 
 			#feature, .article {
 
-				height: 10em;
+				height: 18em;
 
 				margin-bottom: 1em;
 
